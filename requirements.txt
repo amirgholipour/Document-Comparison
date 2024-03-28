@@ -1,0 +1,11 @@
+ibm-generative-ai
+langchain
+streamlit
+pypdf
+sentence-transformers
+chromadb
+pydantic
+ibm_watson_machine_learning
+nltk
+PyPDF2
+pymilvus
